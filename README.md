@@ -60,10 +60,11 @@ class User
 * [hySON-Java](https://github.com/HyOsori/hySON-Java) : JAVA
 
 ## Contributors
-* [kanak87](https://github.com/kanak87)
 * [violentjy](https://github.com/violentjy)
+* [kanak87](https://github.com/kanak87)
 * [seohui](https://github.com/seohui)
 * [soheeee](https://github.com/soheeee)
+* [YunYoungJin](https://github.com/YunYoungJin)
 
 
 ## License
